@@ -1,0 +1,29 @@
+_repo: Put-Yourself-in-His-Place_2497
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reade, Charles
+    birthdate: 1814
+    deathdate: 1884
+    gutenberg_agent_id: '618'
+    url: http://www.gutenberg.org/2009/agents/618
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Reade
+description: Originally published in 1870, this novel focused on trade-union terrorism
+  while following the star-crossed romance of Henry Little and Grace Carden. It is
+  impossible to deny to Mr. Reade the possession of rare and admirable powers, wrote
+  the New York Times in its review.
+gutenberg_issued: '2006-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2497'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Labor unions -- Fiction'
+- !lcsh 'English fiction -- 19th century'
+- !lcc 'PR'
+- GITenberg
+title: Put Yourself in His Place
+url: http://www.gutenberg.org/ebooks/2497
